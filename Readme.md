@@ -1,14 +1,14 @@
-##使用方法：
+## 使用方法：
 本项目为了演示spring-boot自动配置使用。
 
-#####mvn install项目顺序：
+##### mvn install项目顺序：
 1.spring-boot-itheima-api  
 2.itcast-a-template  
 3.itcast-b-template  
 4.test-spring-boot-autoconfig  
 5.spring-boot-itheima-api
 
-#####spring项目中依赖： 
+##### spring项目中依赖： 
 ````
         <dependency>
             <groupId>com.brianxia</groupId>
@@ -17,7 +17,7 @@
         </dependency>
 ````
 
-#####添加配置文件：
+##### 添加配置文件：
 
 ````
 itcast.framework=b
