@@ -1,6 +1,7 @@
 ## 使用方法：
 本项目为了演示spring-boot自动配置使用。
 
+直接使用maven对于root的pom进行install即可。
 ##### mvn install项目顺序：
 1.spring-boot-itheima-api  
 2.itcast-a-template  
