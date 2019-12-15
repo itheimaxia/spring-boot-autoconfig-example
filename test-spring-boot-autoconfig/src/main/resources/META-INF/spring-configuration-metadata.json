@@ -1,0 +1,8 @@
+{
+  "properties":[
+    {
+      "name": "itcast.framework",
+      "defaultValue": "a"
+    }
+  ]
+}

@@ -1,2 +1,3 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.brianxia.testspringbootautoconfig.TestAutoConfiguration
+com.brianxia.testspringbootautoconfig.TestAutoConfiguration,\
+com.brianxia.testspringbootautoconfig.TestEasyConfiguration
